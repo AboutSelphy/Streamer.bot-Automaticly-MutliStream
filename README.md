@@ -1,1 +1,1 @@
-# Streamer.bot-Automaticly-MutliStreeam-Link-
+# Streamer.bot-Automaticly-MutliStreeam-Link
