@@ -1,4 +1,4 @@
-# Streamer.bot-Automaticly-MutliStreeam-Link
+# Streamer.bot-Automaticly-MutliStream-Link
 
 #feature:
 1. Notification if a Update is available.
