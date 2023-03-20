@@ -2,7 +2,7 @@
 
 # feature:
 1. Notification if a Update is available.
-2. Automatic takes all Streamer from the Title ![streamtitlet](https://i.postimg.cc/pdStMB6J/image.png)
+2. Automatic takes all Streamer from the Title ![streamtitle](https://i.postimg.cc/pdStMB6J/image.png)
 
 
 ## ——————————————————————————————
