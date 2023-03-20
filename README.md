@@ -1,6 +1,6 @@
 # Streamer.bot-Automaticly-MutliStream-Link
 
-#feature:
+# feature:
 1. Notification if a Update is available.
 2. Automatic takes all Streamer from the Title ![streamtitlet](https://i.postimg.cc/pdStMB6J/image.png)
 
