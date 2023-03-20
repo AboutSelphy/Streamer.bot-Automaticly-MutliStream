@@ -23,7 +23,7 @@ Automatic generate a **Multistream Link** from the stream title.
 
 
 
-![streamtitle](/assets/automaticly-mutlistream-link/images/streamtitle.png)
+![streamtitle](/assets/images/streamtitle.png)
 
 
 
@@ -37,11 +37,11 @@ Automatic generate a **Multistream Link** from the stream title.
 
 > ## File
  
-Streamer.bot File:  [Script Download](Automatic_MultiStream_By_AboutSelphy.sb)
+Streamer.bot File:  [Script Download](/Automatic_MultiStream_By_AboutSelphy.sb)
 
 
 
-![importscript](/assets/automaticly-mutlistream-link/images/importscript.png)
+![importscript](/assets/images/importscript.png)
 
 
 
@@ -55,7 +55,7 @@ Streamer.bot File:  [Script Download](Automatic_MultiStream_By_AboutSelphy.sb)
 
 
 
-![multiservice](/assets/automaticly-mutlistream-link/images/multiservice.png)
+![multiservice](/assets/images/multiservice.png)
 
 
 
@@ -66,7 +66,7 @@ Streamer.bot File:  [Script Download](Automatic_MultiStream_By_AboutSelphy.sb)
 
 
 
-![custommessage](/assets/automaticly-mutlistream-link/images/custommessage.png)
+![custommessage](/assets/images/custommessage.png)
 
 
 
@@ -79,7 +79,7 @@ Streamer.bot File:  [Script Download](Automatic_MultiStream_By_AboutSelphy.sb)
 
 
 
-![command](/assets/automaticly-mutlistream-link/images/command.png)
+![command](/assets/images/command.png)
 
 
 
@@ -91,8 +91,8 @@ Streamer.bot File:  [Script Download](Automatic_MultiStream_By_AboutSelphy.sb)
 
 
 
-![timedaction](/assets/automaticly-mutlistream-link/images/timedaction.png)
-![timedactionsetup](/assets/automaticly-mutlistream-link/images/timedactionsetup.png)
+![timedaction](/assets/images/timedaction.png)
+![timedactionsetup](/assets/images/timedactionsetup.png)
 
 
 
@@ -103,7 +103,6 @@ Streamer.bot File:  [Script Download](Automatic_MultiStream_By_AboutSelphy.sb)
 
 # Contributors
 
- - [AboutSelphy](https://www.twitch.tv/AboutSelphy){.twitch}
- {.contributors}
+ - [AboutSelphy](https://www.twitch.tv/AboutSelphy)
 
  
