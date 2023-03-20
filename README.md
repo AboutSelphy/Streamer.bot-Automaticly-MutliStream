@@ -17,7 +17,7 @@ TlM0RR+LCAAAAAAABADtXVtv6kiefx9pvgN79mk1XafL5fKl+i1wAnEupAOEiyetVd0MPhhMc0tgNNLu
 > ### Features:
 > Notification if a update is available. .is-info
 
-> Github: [Automaticly-MutliStream-Link](https://github.com/AboutSelphy/Streamer.bot-Automaticly-MutliStream)
+> Streamer.bot: [Streamer.bot Wiki](https://extensions.streamer.bot/en/extensions/automaticly-mutlistream-link)
 
 Automatic generate a **Multistream Link** from the stream title.
 
