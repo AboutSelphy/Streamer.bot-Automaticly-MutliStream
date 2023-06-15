@@ -97,7 +97,6 @@ Streamer.bot File:  [Script Download](/Automatic_MultiStream_By_AboutSelphy.sb)
 
 
 ## TO-DO LIST:
-- [ ] Add link to the update form.
 - [ ] Video tutorial.
 
 
@@ -105,4 +104,6 @@ Streamer.bot File:  [Script Download](/Automatic_MultiStream_By_AboutSelphy.sb)
 
  - [AboutSelphy](https://www.twitch.tv/AboutSelphy)
 
+
+# Thanks to the Streamer.bot Support team
  
