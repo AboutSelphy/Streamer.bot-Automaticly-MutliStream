@@ -15,7 +15,7 @@ TlM0RR+LCAAAAAAABADtXVtv6kiefx9pvgN79mk1XafL5fKl+i1wAnEupAOEiyetVd0MPhhMc0tgNNLu
 
 # Information
 > ### Features:
-> Notification if a update is available. .is-info
+> Notification if a update is available.
 
 > Streamer.bot: [Streamer.bot Wiki](https://extensions.streamer.bot/en/extensions/automaticly-mutlistream-link)
 
@@ -97,8 +97,10 @@ Streamer.bot File:  [Script Download](/Automatic_MultiStream_By_AboutSelphy.sb)
 
 
 ## TO-DO LIST:
-- [ ] Add link to the update form.
 - [ ] Video tutorial.
+
+# Thanks a lot to:
+
 
 
 # Contributors
