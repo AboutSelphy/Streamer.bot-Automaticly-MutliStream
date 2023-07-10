@@ -21,7 +21,7 @@ TlM0RR+LCAAAAAAABADtXdmOIkt6vrfkd0DtK2sm+kTkHkeai4JmSaqKarYEcnpkxZaQTSYwbFXUaCT7
 > Any Problems? Just add a Issue on Github or open a Ticket in the SB .Extension Discord ( support→ Extensions) or on my Discord.
 
 > Discord SB: [Streamer.bot Extensions Discord](https://discord.com/invite/a9ttKtkUZ7) 
-> Discord Selphy: [AboutSelplhy Discord](https://discord.aboutselphy.com) 
+> Discord Selphy: [AboutSelphy Discord](https://discord.Aboutselphy.com) 
 
 Automatic generate a **Multistream Link** from the stream title.
 
