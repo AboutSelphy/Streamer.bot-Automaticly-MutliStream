@@ -102,7 +102,7 @@ Streamer.bot File:  [Script Download](/Automatic_MultiStream_By_AboutSelphy.sb)
 
 ## TO-DO LIST:
 - [ ] Video tutorial.
-- [ ] add GeustStar Method.
+- [ ] Add GeustStar Method.
 
 
 # Contributors
